@@ -1,3 +1,1 @@
 # testing-repo-fabric
-
-is ...
